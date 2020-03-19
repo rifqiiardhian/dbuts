@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+              "id": "1",
+              "merk": "Tissot",
+              "harga": "IDR 7.500.000",
+              "foto": "5.png"
+    },
+    {
+              "id": "2",
+              "merk": "Diesel",
+              "harga": "IDR 3.500.000",
+              "foto": "9.png"
+    },
+    {
+              "id": "3",
+              "merk": "Rolex Daytona",
+              "harga": "IDR 250.000.000",
+              "foto": "foto.png"
+    },
+    {
+              "id": "4",
+              "merk": "Fossil",
+              "harga": "IDR 10.750.000",
+              "foto": "foto1.png"
+    },
+    {
+              "id": "5",
+              "merk": "Patek Philippe",
+              "harga": "IDR 175.700.000",
+              "foto": "foto2.png"
+    },
+    {
+              "id": "6",
+              "merk": "Guess",
+              "harga": "IDR 8.500.000",
+              "foto": "foto6.png"
+    },
+    {
+              "id": "7",
+              "merk": "Casio",
+              "harga": "IDR 5.500.000",
+              "foto": "foto8.png"
+    }
+  ],
+  "test": {
+    "name": "rifqiiardhian"
+  }
+}
