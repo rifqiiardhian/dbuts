@@ -1,97 +1,97 @@
 {
   "products": [
     {
-              "id": "1",
+              "id": 1,
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
     },
     {
-              "id": "2",
+              "id": 2,
               "merk": "Diesel",
               "harga": "IDR 3.500.000",
               "foto": "9.png"
     },
     {
-              "id": "3",
+              "id": 3,
               "merk": "Rolex Daytona",
               "harga": "IDR 250.000.000",
               "foto": "foto.png"
     },
     {
-              "id": "4",
+              "id": 4,
               "merk": "Tissot",
               "harga": "IDR 10.750.000",
               "foto": "foto1.png"
     },
     {
-              "id": "5",
+              "id": 5,
               "merk": "Patek Philippe",
               "harga": "IDR 175.700.000",
               "foto": "foto2.png"
     },
     {
-              "id": "6",
+              "id": 6,
               "merk": "Guess",
               "harga": "IDR 8.500.000",
               "foto": "foto6.png"
     },
     {
-              "id": "7",
+              "id": 7,
               "merk": "Tag Heuer",
               "harga": "IDR 5.500.000",
               "foto": "foto8.png"
     },
     {
-              "id": "8",
+              "id": 8,
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
     },
     {
-              "id": "9",
+              "id": 9,
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
     },
     {
-              "id": "10",
+              "id": 10,
               "merk": "Diesel",
               "harga": "IDR 3.500.000",
               "foto": "9.png"
     },
     {
-              "id": "11",
+              "id": 11,
               "merk": "Rolex Daytona",
               "harga": "IDR 250.000.000",
               "foto": "foto.png"
     },
     {
-              "id": "12",
+              "id": 12,
               "merk": "Tissot",
               "harga": "IDR 10.750.000",
               "foto": "foto1.png"
     },
     {
-              "id": "13",
+              "id": 13,
               "merk": "Patek Philippe",
               "harga": "IDR 175.700.000",
               "foto": "foto2.png"
     },
     {
-              "id": "14",
+              "id": 14,
               "merk": "Guess",
               "harga": "IDR 8.500.000",
               "foto": "foto6.png"
     },
     {
-              "id": "15",
+              "id": 15,
               "merk": "Tag Heuer",
               "harga": "IDR 5.500.000",
               "foto": "foto8.png"
     },
     {
-              "id": "16",
+              "id": 16,
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
@@ -99,25 +99,25 @@
   ],
   "menwatch": [
     {
-              "id": "1",
+              "id": 1,
               "merk": "Patek Philippe",
               "harga": "IDR 175.700.000",
               "foto": "foto2.png"
     },
     {
-              "id": "2",
+              "id": 2,
               "merk": "Rolex Daytona",
               "harga": "IDR 250.000.000",
               "foto": "foto.png"
     },
     {
-              "id": "3",
+              "id": 3,
               "merk": "Tissot",
               "harga": "IDR 10.750.000",
               "foto": "foto1.png"
     },
     {
-              "id": "4",
+              "id": 4,
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
@@ -125,19 +125,19 @@
   ],
   "womenwatch": [
     {
-              "id": "1",
+              "id": 1,
               "merk": "Diesel",
               "harga": "IDR 3.500.000",
               "foto": "9.png"
     },
     {
-              "id": "2",
+              "id": 2,
               "merk": "Guess",
               "harga": "IDR 8.500.000",
               "foto": "foto6.png"
     },
     {
-              "id": "3",
+              "id": 3,
               "merk": "Tag Heuer",
               "harga": "IDR 5.500.000",
               "foto": "foto8.png"
