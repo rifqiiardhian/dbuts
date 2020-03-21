@@ -95,7 +95,7 @@
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
-    },
+    }
   ],
   "men_watch": [
     {
@@ -121,7 +121,7 @@
               "merk": "Fossil",
               "harga": "IDR 7.500.000",
               "foto": "5.png"
-    },
+    }
   ],
   "women_watch": [
     {
@@ -141,7 +141,7 @@
               "merk": "Tag Heuer",
               "harga": "IDR 5.500.000",
               "foto": "foto8.png"
-    },
+    }
   ],
   "test": {
     "name": "rifqiiardhian"
