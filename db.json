@@ -1,24 +1,4 @@
 {
-  "slider": [
-    {
-              "id": 1,
-              "merk": "HOUSE OF TIME",
-              "harga": "The biggest and trusted online watches store in Indonesia",
-              "foto": "slide1.png"
-    },
-    {
-              "id": 2,
-              "merk": "NEW ARRIVAL !",
-              "harga": "Hugo BOSS Tachymeter 007",
-              "foto": "slide2.png"
-    },
-    {
-              "id": 3,
-              "merk": "SPECIAL OFFER 20%",
-              "harga": "get special offer 20% on Guess Navy Blue 017",
-              "foto": "slide2.png"
-    },
-  ],
   "products": [
     {
               "id": 1,
@@ -162,6 +142,26 @@
               "harga": "IDR 5.500.000",
               "foto": "foto8.png"
     }
+  ],
+  "slider": [
+    {
+              "id": 1,
+              "title": "HOUSE OF TIME",
+              "subtitle": "The biggest and trusted online watches store in Indonesia",
+              "foto": "slide1.png"
+    },
+    {
+              "id": 2,
+              "title": "NEW ARRIVAL !",
+              "subtitle": "Hugo BOSS Tachymeter 007",
+              "foto": "slide2.png"
+    },
+    {
+              "id": 3,
+              "title": "SPECIAL OFFER 20%",
+              "subtitle": "get special offer 20% on Guess Navy Blue 017",
+              "foto": "slide2.png"
+    },
   ],
   "test": {
     "name": "rifqiiardhian"
